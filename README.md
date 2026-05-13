@@ -12,7 +12,7 @@
 
 ## 📊 Dashboard Preview
 
-![SaaS Dashboard](saas_dashboard.png.jpeg)
+![SaaS Dashboard](saas_dashboard.png)
 
 ---
 
