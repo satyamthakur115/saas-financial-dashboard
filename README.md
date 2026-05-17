@@ -118,5 +118,5 @@ Then open `data/saas_dashboard.html` in your browser.
 
 **Satyam Thakur** — Data Analyst
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR-LINKEDIN-URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/https://www.linkedin.com/in/satyam-thakur-94a4231b9/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/satyamthakur115)
